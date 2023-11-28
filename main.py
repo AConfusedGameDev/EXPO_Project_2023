@@ -1,7 +1,5 @@
 # to run type "python main.py" 
 
-# add to github
-
 import os
 import cv2
 from random import randint
